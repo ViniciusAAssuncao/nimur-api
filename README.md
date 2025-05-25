@@ -1,4 +1,3 @@
-```markdown
 # NimurAPI
 
 NimurAPI é uma API avançada para indexação e busca de documentos, construída com FastAPI e Whoosh. Este projeto permite indexar documentos em diversos formatos e realizar buscas eficientes com suporte a destaque de texto.
@@ -122,4 +121,3 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais detalhes.
 ---
 
 **Nota**: Configure corretamente o `DATA_DIRECTORY` no `.env` antes de iniciar a API.
-```
