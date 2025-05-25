@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+whoosh
+python-docx
+pypdf2 # ou pdfplumber
+Markdown
+pydantic
